@@ -6,7 +6,10 @@ Hi 👋 My name is Divyanshu Negi
 Fullstack Web Developer
 -----------------------
 
-I am a computer science undergrad student and a practicing fullstack web developer. I am experienced in
+I am a computer science undergrad student and a practicing fullstack web developer. I am experienced in various web development technologies including HTML5, CSS3, JavaScript, TypeScript, ReactJS, NodeJS and ExpressJS. I'm also familiar with RDBMS like MySQL and NoSQL databases like MongoDB.
+I have also worked with various tools like Postman for API testing, Jira for agile product management and Git and GitHub for version control.
+
+I'm a motivated individual, passionate about computer science and technology and keen on learning new skills to make a positive contribution.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Divyanshu Negi Portfolio](http://divyanshunegi.vercel.app/)
