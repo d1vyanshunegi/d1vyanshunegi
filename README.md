@@ -1,3 +1,5 @@
+![Banner](./banner1.png)
+
 Hi 👋 My name is Divyanshu Negi
 ===============================
 
