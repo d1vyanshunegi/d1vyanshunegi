@@ -1,4 +1,4 @@
-![Banner](./banner1.png)
+![Banner](Banner1.png)
 
 Hi 👋 My name is Divyanshu Negi
 ===============================
